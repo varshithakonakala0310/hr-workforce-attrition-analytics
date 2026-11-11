@@ -1,0 +1,15 @@
+HR Workforce Attrition Analytics — SYNTHETIC RESULTS
+Employees: 2000, Overall attrition rate: 0.2445
+Attrition by department:
+  Sales: 0.2722
+  HR: 0.2507
+  Operations: 0.2492
+  Support: 0.2412
+  Engineering: 0.2332
+  Finance: 0.2171
+Attrition by tenure band:
+  0-2: 0.3188
+  3-5: 0.3459
+  6-10: 0.2370
+  10+: 0.1894
+Logistic Regression — accuracy=0.7620 ROC-AUC=0.6605
